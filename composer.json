@@ -15,7 +15,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"bower-asset/backbone": "~1.2.*"
+		"bower-asset/backbone": "~1.2.3"
 	},
 	"autoload": {
 		"psr-4": {
