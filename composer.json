@@ -1,0 +1,25 @@
+{
+	"name": "philippfrenzel/yii2-backbone",
+	"description": "Backbone.js Asset bundle for yii2",
+	"type": "yii2-extension",
+	"keywords": [
+		"yii2",
+		"backbone"
+	],
+	"license": "MIT Clause",
+	"authors": [
+		{
+			"name": "Philipp Frenzel",
+			"email": "philipp@frenzel.net"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"bower-asset/backbone": "~1.2.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"net\\frenzel\\assets\\backbone\\": ""
+		}
+	}
+}
